@@ -1,0 +1,43 @@
+<html>
+    
+
+    <head>
+        <title>Rohit's Webpage</title>
+        <link href="https://fonts.googleapis.com/css2?family=Orbitron&display=swap" rel="stylesheet">
+       <!-- <link href="https://fonts.google.com/css?family=Orbitron" rel="stylesheet" type="text/css">
+           -->
+    </head>
+
+    <body>
+        <h1>Rohit Karunakaran</h1>
+        <div class="introduction">
+            <h5 class="heading">Breif introduction about me!!</h5>
+            <p>
+            An enthusiastic programmer, web-developer.
+            An extremly curious person. Like listening to music
+            watch movies and most importantly code.
+            </p>
+        </div>
+        <div class="knowledge">
+            <p style:"margin-bottom:2px;">
+            Experienced in :
+            <ol>
+                <li>Object oriented programing</li>
+                <li>Machine lerning</li>
+                <li>Responsive Web development</li>
+                <li>Data Structures and Algorithms</li>
+            </ol>
+            </p>
+        </div>
+
+        <div>
+           <!-- <table>
+                <thead>
+                    <tr>
+                </thead>
+           </table>
+           <iframe src="https://github.com/DaKidReturns/BS-with-DS" width="700px" height="70px"> </iframe>
+           -->
+        </div>
+    </body>
+</html>
